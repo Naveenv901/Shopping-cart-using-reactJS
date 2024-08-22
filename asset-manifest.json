@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shopping-cart-using-reactJS/static/css/main.29e17ca4.css",
+    "main.js": "/Shopping-cart-using-reactJS/static/js/main.a5e145e4.js",
+    "static/media/Apple.jpg": "/Shopping-cart-using-reactJS/static/media/Apple.86f2b8fc39e67e1b3374.jpg",
+    "static/media/Pineapple.jpeg": "/Shopping-cart-using-reactJS/static/media/Pineapple.fdccbc813fbf7721420f.jpeg",
+    "index.html": "/Shopping-cart-using-reactJS/index.html",
+    "main.29e17ca4.css.map": "/Shopping-cart-using-reactJS/static/css/main.29e17ca4.css.map",
+    "main.a5e145e4.js.map": "/Shopping-cart-using-reactJS/static/js/main.a5e145e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29e17ca4.css",
+    "static/js/main.a5e145e4.js"
+  ]
+}
